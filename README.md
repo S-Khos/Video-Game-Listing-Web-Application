@@ -1,3 +1,6 @@
+Interactive video games listing web application developed with MERN (full-stack)
+
+--------------------------------------------------------------------------------
 # Run Instructions
 #### Step1: Install all required dependencies:
               npm install
